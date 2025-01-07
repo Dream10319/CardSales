@@ -68,8 +68,6 @@ namespace CardSales
                         var request = new RestRequest();
                         request.AddHeader("Content-Type", "application/json");
                         request.AddHeader("Authorization", "Bearer " + Properties.Settings.Default.Access_token);
-                        MessageBox.Show(Properties.Settings.Default.Access_token);
-                        MessageBox.Show("password:" + Encrypt(password.Text, Properties.Settings.Default.Pub_key));
                         request.AddBody(new
                         {
                             organization = "0323",
