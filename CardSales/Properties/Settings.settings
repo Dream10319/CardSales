@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CardSales.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Access_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Pub_key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsIbHR7Eu6nQEW7GzVj7al6FmZ8IW1U4bcG0IOehu7W8TE14GKEPotzZpBkMyHI7gotWpNlCJjw4fisDLnM5RsDdbKJEFMVfwjFdPXnywrJ15421D4+Ve/UXtcqM8ocriPlPciRlAb/YF9Yk1QHht+k0FjREivX8vV1KSlE2t36B/DUvfwVF3w+Z28Kf8MCau4QLI7nIVSuRL3IxJSXAA6g6ZZl+9YKnS3Z+f93D5TX7BpaxuE9unh22nAA7vktYjCxDa8Ujy/D8wQIBecSWMVwTpz7vzRgBdL2JoIY5jz/R4GsdmqAy80Wp4OPl7gK61CJan4J12KDWVqBMOAcdzCwIDAQAB</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aa62007</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F7d1a3vLwL4c/SaXO5b5ADqslyMm+l5U1wFaXpK84Jg1KYnZGHKIPTlYfJFifTuG4GCaT/cbk6/KBw3Ac0Qmumsmp+xnOFA50Be2lL8ejtmt5MxrNbcVbitMzxSmetVBOZs3rn2JTWm/SX8qz8JuxVULygM3rx6eRQ3cdE9mkq+5sOoAN9VhIn+14oAbe8RtjOZ2lbT7y7cXmkel0n2y38eBBi6pUkvI4JqM48F15j7NlGSdpNnfcxvLd1D3u2mFl+hso7KQnhecA47Cgiur35xSwOWJxO7rHIDyMi2QImS1JdOvacPzgIy28PA/MvbLRrJlsAwP0baDGHID1jcYCQ==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
